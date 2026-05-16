@@ -1,0 +1,20 @@
+{
+  "rooms": {
+    "0": "living_room",
+    "1": "bedroom",
+    "2": "kitchen",
+    "3": "bathroom",
+    "4": "hallway"
+  },
+  "devices": [
+    {
+      "port": "COM7",
+      "label": 0,
+      "x": 0.0,
+      "y": 0.0,
+      "room_name": "living_room"
+    }
+  ],
+  "timestamp": 1704067200.0,
+  "notes": "Generated for user's COM7 ESP32"
+}
